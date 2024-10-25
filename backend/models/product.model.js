@@ -9,6 +9,10 @@ const productSchema = new mongoose.Schema({
         type: Number,
         required: true
     },
+    image: {
+        type: String,
+        required:true
+    }
 
 }, {
     timestamps: true // this is so that every entry will have a created at and updated at with it.
