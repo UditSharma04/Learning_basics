@@ -10,7 +10,7 @@
 	},
 	"type": "module",
 	"keywords": [],
-	"author": "",
+	"author": "Udit Sharma",
 	"license": "ISC",
 	"dependencies": {
 		"dotenv": "^16.4.5",
